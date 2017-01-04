@@ -42,7 +42,7 @@
 			<name>metasfresh maven repository</name>
        
          	<!-- URL for nexus 2.14 -->       
-         	<url>https://repo.metasfresh.com/content/groups/mvn-public/</url>
+         	<url>http://localhost:8081/nexus/content/groups/public/</url>
 		</repository>
 		<!-- this additional repo's parameters can be set from outside. It usually correesponds to a (task-)branch -->
 		<repository>
